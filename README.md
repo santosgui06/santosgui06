@@ -2,16 +2,19 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Sou estudante de ADS e estou construindo minha experiência em tecnologia por meio de projetos acadêmicos, estudos e projetos pessoais.
+Sou estudante de ADS e estou construindo minha experiência em tecnologia 
+por meio de projetos acadêmicos e pessoais.
 
-Tenho interesse em **Desenvolvimento Back-end, Full Stack e Análise de Dados**, buscando transformar os conhecimentos adquiridos nos estudos em aplicações e projetos práticos.
+Tenho interesse principal em **Análise de Dados e Business Intelligence**, 
+e também estou desenvolvendo habilidades em **Desenvolvimento Back-end e 
+Full Stack**, buscando transformar os conhecimentos adquiridos em 
+aplicações e projetos práticos.
 
 ## 🛠️ Tecnologias
 
 ### Principais
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
 </p>
@@ -19,6 +22,7 @@ Tenho interesse em **Desenvolvimento Back-end, Full Stack e Análise de Dados**,
 ### Também estudando
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
@@ -26,7 +30,7 @@ Tenho interesse em **Desenvolvimento Back-end, Full Stack e Análise de Dados**,
 
 ## 📚 Formação
 
-**Análise e Desenvolvimento de Sistemas**
+**Análise e Desenvolvimento de Sistemas — Centro Universitário Senac** 
 
 Atualmente aprofundando meus conhecimentos em programação, banco de dados, desenvolvimento web e construção de projetos.
 
@@ -50,9 +54,12 @@ O projeto também trabalha com manipulação de arquivos, leitura de dados e org
 
 ## 🎯 Atualmente
 
-Estou buscando evoluir continuamente na área de tecnologia, desenvolvendo projetos para colocar em prática meus conhecimentos e construindo meu portfólio profissional.
+Estou evoluindo continuamente na área de tecnologia, desenvolvendo 
+projetos para colocar em prática meus conhecimentos e construindo 
+meu portfólio profissional.
 
-Tenho como objetivo conquistar uma oportunidade de estágio na área de tecnologia e continuar desenvolvendo minhas habilidades através de projetos e experiências práticas.
+Atuo como **Estagiário na Edenred (Ticket)** e sigo aprofundando 
+habilidades em Análise de Dados, Power BI e desenvolvimento de sistemas.
 
 ## 📫 Vamos nos conectar?
 
