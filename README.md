@@ -36,13 +36,19 @@ Atualmente aprofundando meus conhecimentos em programação, banco de dados, des
 
 ## 🚀 Projetos em destaque
 
-### 🎮 As Aventuras de Code e Coda
+### 🚗 DevMotors — E-commerce de Veículos
+Projeto acadêmico colaborativo desenvolvido em equipe durante 
+a graduação em ADS (Senac), utilizando Angular e TypeScript.
 
-Projeto acadêmico desenvolvido em Java para a disciplina de Algoritmos e Programação II.
+Minhas contribuições:
+- Melhorias de layout com HTML, CSS e Flexbox
+- Organização de classes no TypeScript
+- Implementação de modais de Registro, Edição e Exclusão de veículos
+- Suporte na implementação da tela de Login
 
-O projeto consiste em uma aventura baseada em texto, envolvendo movimentação em um mapa, batalhas, inventário, progressão do personagem e desafios.
+⚠️ Em desenvolvimento ativo.
 
-[🔗 Ver projeto](https://github.com/oclaudiodev/As-Aventuras-de-Code-e-Coda)
+[🔗 Ver projeto](https://github.com/oclaudiodev/devMotors)
 
 ### 📋 CRUD de Clientes e Contatos
 
